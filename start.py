@@ -1,0 +1,5 @@
+print('Introducing the Sport Tracker Application!\n')
+print('I can provide you with scores from soccer, basketball, football, and baseball that occured today!\n')
+print('What sport scores would you like to read? (enter a digit)\n')
+print('1. Soccer\n2. Basketball\n3. Football\n4. Baseball')
+sport = input('Please enter a digit from 1-4: ')
