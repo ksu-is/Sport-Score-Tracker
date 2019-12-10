@@ -4,8 +4,8 @@
 4) Add print statements welcoming users to the Sport-Score-Tracker Project. DONE
 5) Add functions that will allow users to read soccer, basketball, football, and baseball scores of the given day. DONE
 6) Assign digits to specific sports. Soccer = 1 , Basketball = 2 , Football = 3 , Baseball = 4. DONE
-7) Add an option to quit the program after finding scores. 
-8) Create a function that will allow you to look at other sport scores after already looking at one.
-9) Keep code neat and easy to follow along so future users can use it as an example for their projects.
-10) Test code to assure no error messages occur.
-11) Release project to the publib while staying true to due dates given by professor. 
+7) Add an option to quit the program after finding scores. DONE
+8) Create a function that will allow you to look at other sport scores after already looking at one. DONE
+9) Keep code neat and easy to follow along so future users can use it as an example for their projects. DONE
+10) Test code to assure no error messages occur. DONE
+11) Release project to the publib while staying true to due dates given by professor. DONE
